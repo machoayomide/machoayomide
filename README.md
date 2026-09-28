@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Macho 👋
 
-<!--
-**machoayomide/machoayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freelance developer and ecommerce specialist from Nigeria. I help businesses sell more online with Shopify stores, mobile apps and backend systems that just work.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shopify:** custom themes, Liquid code, app integrations, store migrations and ERP sync.
+
+**Mobile apps:** Flutter and React Native apps, including fintech apps in production.
+
+**Backend and integrations:** Node.js and Laravel APIs, ERP connections and multi channel ecommerce systems.
+
+## Tech I use
+
+Flutter · React Native · Node.js · Laravel · Shopify · Liquid
+
+## What I'm working on
+
+**ToolHaus** is my Shopify growth kit studio. It gives store owners ready made tools to grow faster. See it here: https://toolhauskit.myshopify.com
+
+## Work with me
+
+I have been freelancing since 2021 as Machotech.
+
+Fiverr: [your Fiverr link]
+Upwork: [your Upwork link]
+Email: olalekanayomide475@gmail.com
