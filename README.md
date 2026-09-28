@@ -22,6 +22,5 @@ Flutter · React Native · Node.js · Laravel · Shopify · Liquid
 
 I have been freelancing since 2021 as Machotech.
 
-Fiverr: [your Fiverr link]
-Upwork: [your Upwork link]
+Upwork: upwork.com/freelancers/~01427ab2a90d2aa456
 Email: olalekanayomide475@gmail.com
